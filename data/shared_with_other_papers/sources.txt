@@ -1,0 +1,5 @@
+sources:
+
+https://github.com/bodowinter/senses_POS
+https://osf.io/b9fhx/
+https://github.com/bodowinter/visual_dominance/

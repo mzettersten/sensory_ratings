@@ -1,0 +1,39 @@
+Variable = Definition
+~~~~~~~~~~~~~~~~~~~~~
+
+Item# = Number of property word in alphabetical order (1-423)
+
+Property = Word that describes target property
+
+Familiarity = Proportion of participants that were familiar with the meaning of the property word (0-100%)
+
+VisualStrengthMean = Mean rating (0-5) of how strongly property is experienced by seeing
+
+HapticStrengthMean = Mean rating (0-5) of how strongly property is experienced by feeling through touch
+
+AuditoryStrengthMean = Mean rating (0-5) of how strongly property is experienced by hearing
+
+OlfactoryStrengthMean = Mean rating (0-5) of how strongly property is experienced by smelling
+
+GustatoryStrengthMean = Mean rating (0-5) of how strongly property is experienced by tasting
+
+VisualStrengthSD = Standard deviation of visual strength ratings
+
+HapticStrengthSD = Standard deviation of haptic strength ratings
+
+AuditoryStrengthSD = Standard deviation of auditory strength ratings
+
+OlfactoryStrengthSD = Standard deviation of olfactory strength ratings
+
+GustatoryStrengthSD = Standard deviation of gustatory strength ratings
+
+DominantModality = Modality through which property is experienced most strongly (i.e., with highest strength rating)
+
+ModalityExclusivity = Extent to which property is experienced though a single perceptual modality (0 – 100%), calculated as range of 
+strength values divided by their sum
+
+BNCFrequency = Frequency per million words in the British National Corpus (2001)
+
+BNCLogFrequency = Natural logarithm of BNC frequency (one unit was added to the BNC frequency prior to transform to allow for words of zero frequency)
+
+OrthographicLength = Number of letters in property word

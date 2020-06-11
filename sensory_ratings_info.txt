@@ -1,0 +1,146 @@
+Sensory rating data sources.
+
+
+Perceptual Modality Norms.
+Lynott, D., & Connell, L. (2009). Modality exclusivity norms for 423 object properties. Behavior Research Methods, 41, 558–564.
+
+Description: 
+a set of norms for 423 adjectives, each describing an object property, with mean ratings of how strongly that property is experienced through each of five perceptual modalities (visual, haptic, auditory, olfactory, and gustatory). The data set also contains estimates of modality exclusivity—that is, a measure of the extent to which a particular property may be considered unimodal (i.e., perceived through one sense alone). 
+
+Instruction:
+“To what extent do you experience something being WORD” (with the WORD slot filled by the property in question). Underneath this line were five separate rating scales for each perceptual modality, labeled “by feeling through touch,” “by hearing,” “by seeing,” “by smelling,” and “by tasting.”
+
+
+Lynott, D., & Connell, L. (2013). Modality exclusivity norms for 400 nouns: The relationship between perceptual experience and surface word form. Behavior ResearchMethods, 45, 516–526.
+
+Description:
+modality exclusivity norms for 400 noun concepts that contain ratings of perceptual strength in five modalities: auditory, gustatory, haptic, olfactory, and visual.
+
+Instruction:
+To what extent do you experience WORD” (with the WORD slot being filled with the noun in question). Underneath this line were five separate rating scales for each perceptual modality, labeled “by feeling through touch,” “by hearing,” “by seeing,” “by smelling,” and “by tasting.”
+
+DUTCH
+Speed, L.J., Majid, A. Dutch modality exclusivity norms: Simulating perceptual modality in space. Behav Res 49, 2204–2218 (2017). https://doi.org/10.3758/s13428-017-0852-3
+
+Instruction:
+to rate to what extent the meaning of the word could be experienced in each perceptual modality, in the following order: by feeling through touch, hearing, seeing, smelling, and tasting, on a scale of 0 (not at all) to 5 (greatly) (following Lynott & Connell, 2009 and Lynott & Connell, 2013). 
+
+FRENCH
+Chedid, G., Brambati, S.M., Bedetti, C. et al. Visual and auditory perceptual strength norms for 3,596 French nouns and their relationship with other psycholinguistic variables. Behav Res 51, 2094–2105 (2019). https://doi.org/10.3758/s13428-019-01254-w
+
+Instruction: The explanations and instructions for the ratings followed the method used by Lynott and Connell (2009).
+
+ITALIAN
+Vergallito, A., Petilli, M.A. & Marelli, M. Perceptual modality norms for 1,121 Italian words: A comparison with concreteness and imageability scores and an analysis of their impact in word processing tasks. Behav Res (2020). https://doi.org/10.3758/s13428-019-01337-8
+https://osf.io/zdg59/
+
+Instruction:
+Items were randomly presented to participants for perceptual strength ratings in a norming procedure based on Lynott and Connell (2009). Each word was presented on a separated screen, in a sentence that reported “To what extent do you experience WORD” (with the WORD slot being filled by a noun or verb target) or “to what extent do you experience something being WORD” (with the WORD slot being filled by an adjective target or a target that could be considered both an adjective and a noun). The sentence was completed underneath by five endings, corresponding to the five perceptual modalities: “by hearing,” “by tasting,” “by feeling through touch,” “by smelling,” and “by seeing.” Each of these endings was paired with a rating scale. 
+
+Morucci, P., et al. 2019 Augmented Modality Exclusivity Norms for Concrete and Abstract Italian Property Words. Journal of Cognition, 2(1): 42, pp. 1–14. DOI: https://doi.org/10.5334/joc.88
+
+https://osf.io/s8gv9/
+
+Description:
+We developed a new set of modality exclusivity norms for 643 Italian concrete and abstract words. In addition to sensory scores for each perceptual modality, we calculated Maximum Perceptual Strength, Modality Exclusivity, Summed Perceptual Strengths, Dominant Modality and Entropy. We augmented the database with corpus-based (Zipf Frequency, Contextual Diversity, Orthographic Neighbourhood Size, OLD20, Length in Letters) and rating-based covariates (Familiarity, Age of Acquisition, Context Availability) that are known to influence word processing. 
+
+RUSSIAN
+Miklashevsky, A. Perceptual Experience Norms for 506 Russian Nouns: Modality Rating, Spatial Localization, Manipulability, Imageability and Other Variables. J Psycholinguist Res 47, 641–661 (2018). https://doi.org/10.1007/s10936-017-9548-1
+
+
+Lancaster Sensorimotor norms: Perception and Action Strength
+Lynott, D., Connell, L., Brysbaert, M. et al. The Lancaster Sensorimotor Norms: multidimensional measures of perceptual and action strength for 40,000 English words. Behav Res 52, 1271–1291 (2020). https://doi.org/10.3758/s13428-019-01316-z
+https://osf.io/7emr6/
+
+Instruction:
+For perceptual strength ratings, the text was “To what extent do you experience WORD,” where WORD was replaced with the concept in question. Underneath were six rating scales, one for each of the perceptual modalities under investigation, labelled “By feeling through touch”, “By hearing”, “By sensations inside your body”, “By smelling” and “By tasting,”. 
+For the action strength ratings, the text read “To what extent do you experience WORD by performing an action with,” followed by choices of “Foot / leg”, “Hand / arm”, “Head excluding mouth”, “Mouth / throat”, “Torso”. For these ratings, each scale also contained an image of a body avatar that highlighted the body part relevant to each intended effector. Participants were asked to rate the extent to which they experience each concept through each of the named senses or effectors; both the sensory and motor components had 6-point scales ranging from 0 (not at all) to 5 (greatly)
+
+Dantzig Modality Exclusivity Norms
+van Dantzig, S., Cowell, R.A., Zeelenberg, R. et al. A sharp image or a sharp knife: norms for the modality-exclusivity of 774 concept-property items. Behav Res 43, 145–154 (2011). https://doi.org/10.3758/s13428-010-0038-8
+
+Description:
+we computed a measure of modality exclusivity, the degree to which a property is perceived exclusively through one sensory modality. 
+
+Instruction:
+The procedure was similar to that used by Lynott and Connell (2009). The E-Prime 2.0 software package (Psychology Software Tools, Pittsburgh, PA) was used to present the items and collect the participants’ responses. Concept-property items were presented in random order. During each trial, a screen was presented with the text “To what extent do you experience [concept] being [property]?” (e.g., “To what extent do you experience a banana being yellow?”). This text was followed by five separate rating scales for each perceptual modality, labeled “by feeling through touch”, “by hearing”, “by seeing”, “by smelling”, and “by tasting”. To avoid any order effects, the order of the rating scales was randomly determined for each participant. Participants rated the extent to which they would experience the property through each of the five senses from 0 (not at all) to 5 (greatly), by clicking on the corresponding number with the computer mouse. Once the property had been rated on all five modalities, the participant clicked on the “Next Item” button to proceed to the subsequent item.
+
+
+Sensory Experience Ratings.
+Juhasz BJ & Yap MJ (2013). Sensory experience ratings for over 5,000 mono- and disyllabic words. Behav. Res. Methods 45, 160 – 168. doi:10.3758/s13428- 012-0242-9
+
+Short instruction description:
+"rate the degree to which each word evokes a sensory experience, on a 1 to 7 scale, with higher numbers indicating a greater sensory experience."
+
+Full instruction:
+
+On the following pages is a list of words. Please read and consider each word based on the degree of sensory experience each one evokes for you. By sensory experience, we mean an actual sensation (taste, touch, sight, sound, or smell) you experience by reading the word.
+
+Please rate each word on a 1 to 7 scale, with 1 meaning the word evokes no sensory experience for you, 4 meaning the word evokes a moderate sensory experience, and 7 meaning the word evokes a strong sensory experience.
+
+There are no right or wrong answers. We are interested in your personal sensory experience with these words. You can indicate your rating by circling the number you choose next to each word.
+
+SPANISH
+Díez-Álamo, A.M., Díez, E., Wojcik, D.Z. et al. Sensory experience ratings for 5,500 Spanish words. Behav Res 51, 1205–1215 (2019). https://doi.org/10.3758/s13428-018-1057-0
+
+Perceptual and motor attribute ratings
+Amsel, B.D., Urbach, T.P. & Kutas, M. Perceptual and motor attribute ratings for 559 object concepts. Behav Res 44, 1028–1041 (2012). https://doi.org/10.3758/s13428-012-0215-z
+
+Instruction:
+participants were instructed that they would be asked to make several judgments about “words that refer to objects such as tools, animals, vehicles, fruits, etc.” They were informed that for each word they would first rate their familiarity with the object that the word referred to on a scale from Extremely familiar to Not at all familiar. Second, they were asked to “please rate the object on a particular characteristic (e.g., how it looks, feels, smells, etc.).”
+
+Concreteness.
+Brysbaert M, Warriner AB & Kuperman V. (2014) Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Res. Methods 46, 904 – 911. doi:10.3758/s13428-013-0403-5
+
+Instruction:
+Some words refer to things or actions in reality, which you can experience directly through one of the five senses. We call these words concrete words. Other words refer to meanings that cannot be experienced directly but which we know because the meanings can be defined by other words. These are abstract words. Still other words fall in-between the two extremes, because we can experience them to some extent and in addition we rely on language to understand them. We want you to indicate how concrete the meaning of each word is for you by using a 5-point rating scale going from abstract to concrete.
+A concrete word comes with a higher rating and refers to something that exists in reality ; you can have immediate experience of it through your senses (smelling, tasting, touching, hearing, seeing) and the actions you do. The easiest way to explain a word is by pointing to it or by demonstrating it (e.g. To explain 'sweet' you could have someone eat sugar; To explain 'jump' you could simply jump up and down or show people a movie clip about someone jumping up and down; To explain 'couch', you could point to a couch or show a picture of a couch).
+An abstract word comes with a lower rating and refers to something you cannot experience directly through your senses or actions. Its meaning depends on language. The easiest way to explain it is by using other words (e.g. There is no simple way to demonstrate 'justice'; but we can explain the meaning of the word by using other words that capture parts of its meaning).
+Because we are collecting values for all the words in a dictionary (over 60 thousand in total), you will see that there are various types of words, even single letters. Always think of how concrete (experience based) the meaning of the word is to you. In all likelihood, you will encounter several words you do not know well enough to give a useful rating. This is informative to us too, as in our research we only want to use words known to people. We may also include one or two fake words which cannot be known by you. Please indicate when you don't know a word by using the letter N (or n).
+So, we ask you to use a 5-point rating scale going from abstract to concrete and to use the letter N when you do not know the word well enough to give an answer.
+
+BLIND: Semantic feature norms from congenitally blind participants
+Lenci, A., Baroni, M., Cazzolli, G. et al. BLIND: a set of semantic feature norms from the congenitally blind. Behav Res 45, 1218–1233 (2013). https://doi.org/10.3758/s13428-013-0323-4
+
+Notes. Italian participants, translated into English.
+
+http://sesia.humnet.unipi.it/blind_data/
+
+Wisconsin Perceptual Attribute Ratings
+Medler, D.A., Arnoldussen, A., Binder, J.R., Seidenberg, M.S., 2005. The Wisconsin Perceptual Attribute Ratings Database. http://www.neuro.
+mcw.edu/ratings
+
+Description:
+mean perceptual attribute ratings in 4 sensory-motor domains (Sound, Color, Manipulation, Motion) for 1402 words, as well as Emotion ratings reflecting intensity and valence of emotional associations for the same words
+
+Instruction:
+For the sensory-motor domains (Sound, Color, Motion, and Manipulation), each participant was presented with a subset of the words and asked to rate how important a particular attibute domain was to the meaning of each word on a scale from 0 (not at all important) to 6 (very important). Each participant rated the words on only a single sensory-motor domain. For the Emotion ratings, paricipants were asked to rate how negative or positive were the emotions they associated with each word, using a scale from -6 (very negative feeling) to +6 (very positive feeling), with 0 being a neutral feeling.
+
+Imageability
+Kerr, N.H., Johnson, T.H. Word norms for blind and sighted subjects: Familiarity, concreteness, meaningfulness, imageability, imagery modality, and word associations. Behavior Research Methods, Instruments, & Computers 23, 461–485 (1991). https://doi.org/10.3758/BF03209988
+
+Stadthagen-Gonzalez, H., Davis, C.J. The Bristol norms for age of acquisition, imageability, and familiarity. Behavior Research Methods 38, 598–605 (2006). https://doi.org/10.3758/BF03193891
+
+
+Other Papers:
+
+Abstractness of language paper
+Lupyan G, Winter B. (2018). Language is more abstract than you think, or, why aren’t languages more iconic? Phil. Trans. R. Soc. B 373: 20170137. doi:10.1098/rstb.2017.0137
+https://osf.io/b9fhx/
+merged analysis file:
+concreteness_SER_AOA_iconicity.csv
+
+Winter, B.,  Perlman, M., and Majid, A. (2018). Vision dominates in perceptual language: English sensory vocabulary is optimized for usage. Cognition, 179. 213-220.
+https://github.com/bodowinter/visual_dominance/
+
+Winter, B. (2019). Sensory Linguistics.
+
+Sensicon
+
+Strik Lievers 2015
+
+Body-object interaction ratings
+Pexman, P.M., Muraki, E., Sidhu, D.M. et al. Quantifying sensorimotor experience: Body–object interaction ratings for more than 9,000 English words. Behav Res 51, 453–466 (2019). https://doi.org/10.3758/s13428-018-1171-z
+
+
+
